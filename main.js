@@ -9,3 +9,4 @@ document.querySelector("#_Button").addEventListener("click", () => {
     string.value = "";
 })
 window.document.write("<br>");
+console.log('sv');
